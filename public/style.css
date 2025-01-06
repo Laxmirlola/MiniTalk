@@ -1,0 +1,19 @@
+.chat {
+  height: 220px;
+  width: 400px;
+  background-color: aqua;
+  border: 2px solid black;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+
+.msg {
+  width: 300px;
+  margin-left: 3px;
+  padding: 1px;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+  background-color: blue;
+}
